@@ -25,4 +25,4 @@ def create_character(name, a, b, c):
 
     return(name + "\n" + line_str + "\n" + line_int + "\n" + line_cha)
 
-print(create_character('AYESHA', 4, 2, 1))
+print(create_character('AYESHA', 5, 1,1))
